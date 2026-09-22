@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "fad6c6b53a9cac8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "66217c26f11a6f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ab15dd74aaeeb67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAA prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAA prep"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a2c32ee43c31d4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a38ce3d03efd190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3acd0a0a5f0cc33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f08edf16f0412299",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f4f58b5c63b2e0d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b7ba999fbaf9dd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "937b17d5a697d0de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3273394209e362e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "35f6c9bf81716a41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "78fc09496c3b09ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "897474cc3d030a51",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2d47b6be5e8b850d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3ab15dd74aaeeb67",
+  "lastOpenFiles": [
+    "README.md",
+    "SAA prep.md",
+    "5-CKA/07_troubleshooting_controlplane_worker_nodes.md",
+    "1-Minikube-Initialization/04_verification_and_drivers.md",
+    "1-Minikube-Initialization/03_macos_installation.md",
+    "1-Minikube-Initialization/02_linux_installation.md",
+    "1-Minikube-Initialization/01_windows_installation.md",
+    "5-CKA/08_cka_scenario_based_questions.md",
+    "4-CKAD/08_ckad_scenario_based_questions.md",
+    "3b-KCSA/07_kcsa_exam_prep.md",
+    "3b-KCSA/06_compliance_cis_benchmarks_audit.md",
+    "3b-KCSA/05_platform_security_falco_trivy_opa.md",
+    "3b-KCSA/04_threat_modeling_stride.md",
+    "3b-KCSA/03_security_fundamentals_rbac_pss.md",
+    "3b-KCSA/02_cluster_component_security.md",
+    "3b-KCSA/01_cloud_native_security_4cs.md",
+    "3b-KCSA/!_kcsa_prerequisites.txt",
+    "3b-KCSA",
+    "3-KCNA/04_cloud_native_observability.md",
+    "2-Basic-Commands/02_pods_and_namespaces.md",
+    "2-Basic-Commands/01_imperative_vs_declarative.md",
+    "3-KCNA/01_cloud_native_architecture.md",
+    "5-CKA/06_node_maintenance_drain_cordon.md",
+    "5-CKA/04_rbac_security_authentication.md",
+    "5-CKA/05_cluster_networking_cni_dns.md",
+    "5-CKA/03_cluster_upgrades.md",
+    "5-CKA/02_etcd_backup_and_restore.md",
+    "5-CKA/01_cluster_architecture_installation_kubeadm.md"
+  ]
+}

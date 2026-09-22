@@ -1,0 +1,27 @@
+# Executables and Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.iso
+*.img
+*.tar.gz
+*.zip
+
+# Minikube / Kubernetes temporary files and logs
+.minikube/
+*.log
+*.tmp
+
+# Obsidian personal workspace state & cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/backups/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,54 @@
+====================================================================
+! KCSA (Kubernetes & Cloud Native Security Associate) PREREQUISITES
+====================================================================
+
+Certification: Kubernetes and Cloud Native Security Associate (KCSA)
+Exam Format: 60 Multiple-Choice Questions (90 Minutes)
+Passing Score: 75% | Exam Provider: CNCF & Linux Foundation
+Recommended Path: Take KCNA first, then KCSA, before CKAD / CKA / CKS.
+
+--------------------------------------------------------------------
+🔒 KCSA 6 EXAM DOMAINS & WEIGHTAGE:
+--------------------------------------------------------------------
+1. Overview of Cloud Native Security (14%):
+   - The 4Cs of Cloud Native Security: Cloud, Cluster, Container, Code.
+   - Defense in depth strategy & Shift-left security principles.
+   - Shared responsibility model.
+
+2. Kubernetes Cluster Component Security (22%):
+   - API server security (Authentication, Authorization, Admission Controllers).
+   - etcd encryption at rest & backup security.
+   - Kubelet security configuration & PKI certificate management.
+
+3. Kubernetes Security Fundamentals (22%):
+   - RBAC (Roles, ClusterRoles, RoleBindings, ClusterRoleBindings).
+   - ServiceAccounts & token security.
+   - NetworkPolicies for ingress/egress Pod traffic isolation.
+   - Pod Security Standards (Privileged, Baseline, Restricted) & Admission.
+
+4. Kubernetes Threat Model (16%):
+   - STRIDE Threat Modeling (Spoofing, Tampering, Repudiation, Information Disclosure, DoS, Elevation of Privilege).
+   - Container escape vectors & privilege escalation.
+   - Supply chain vulnerabilities & compromise scenarios.
+
+5. Platform Security (16%):
+   - Image vulnerability scanning (Trivy, Grype).
+   - Runtime security & threat detection (Falco).
+   - Admission control policy engines (OPA / Gatekeeper, Kyverno).
+   - Image signing, SBOM, and provenance (Cosign / Sigstore).
+
+6. Compliance and Security Frameworks (10%):
+   - CIS Kubernetes Benchmarks (`kube-bench`, `kubescape`).
+   - NIST Container Security Guidelines.
+   - Kubernetes Audit Logging and compliance evidence.
+
+--------------------------------------------------------------------
+📑 FILE NAVIGATION:
+--------------------------------------------------------------------
+- [[01_cloud_native_security_4cs]]
+- [[02_cluster_component_security]]
+- [[03_security_fundamentals_rbac_pss]]
+- [[04_threat_modeling_stride]]
+- [[05_platform_security_falco_trivy_opa]]
+- [[06_compliance_cis_benchmarks_audit]]
+- [[07_kcsa_exam_prep]] (Contains 30+ Practice Questions & Answer Key)
